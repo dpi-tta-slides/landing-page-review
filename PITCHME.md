@@ -11,6 +11,25 @@ _paginate: false
 
 ---
 
+## Why Landing Pages Matter
+
+- Often the first user interaction with your product
+- Convert visitors into users, customers, or stakeholders
+- Communicate the **value** of using your productk
+- A weak landing page can sink a strong app
+
+---
+
+## Common Landing Page Mistakes
+
+- No explanation of how the app works and/or why you should use it
+- Redirect to login
+- No visible call to action
+- Screenshots without context
+- Target audience implied but never stated
+
+---
+
 ## Capstone Rubric
 
 Your capstone project will be graded in 3 parts:
@@ -39,7 +58,7 @@ Your capstone project will be graded in 3 parts:
 
 <!-- Does the page feature a clear and compelling call to action (CTA), such as a sign-up or get-started button, that is easily identifiable and encourages visitors to engage with the app? -->
 
-- Explanation of Features and Benefits
+- Explanation of Features (What the app does) and Benefits (Why users should care)
 
 <!-- Is there a concise explanation of how the app works, through a combination of text, visuals (e.g. infographics), to illustrate the app's key features and benefits? -->
 
@@ -57,21 +76,37 @@ Your capstone project will be graded in 3 parts:
 
 Let's take a look at some landing pages and assess them on these 7 points.
 
-- [Illinois Secretary of State - Apple Wallet ID](https://www.ilsos.gov/departments/drivers/mobile-id/apple-wallet.html)
+---
+
+## Enterprise / SaaS
+
 - [Basecamp](https://basecamp.com/)
 - [Stripe](https://stripe.com/)
-- [Dropbox](https://www.dropbox.com/)
+- [Notion](https://www.notion.com/)
+- [Mixpanel](https://mixpanel.com/)
 - [Calendly](https://calendly.com/)
-- [Airbnb](https://www.airbnb.com/)
+- [Postmark](https://postmarkapp.com/)
 
 ---
 
+## Consumer
+
+- [Airbnb](https://www.airbnb.com/)
+- [Dropbox](https://www.dropbox.com/)
 - [GitHub](https://github.com/)
-- [Postmark](https://postmarkapp.com/)
-- [Notion](https://www.notion.com/)
-- [Mixpanel](https://mixpanel.com/)
+
+---
+
+## Indie
+
 - [HairstyleAI](https://www.hairstyleai.com/)
 - [ReceiptAi](https://receipt-ai.com/)
+
+---
+
+## Government
+
+- [Illinois Secretary of State - Apple Wallet ID](https://www.ilsos.gov/departments/drivers/mobile-id/apple-wallet.html)
 
 ---
 
