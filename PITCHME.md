@@ -22,15 +22,14 @@ _paginate: false
 
 ## 5 Second Test
 
-Can your visitors tell what your landing page is about in 5 seconds or less?
+Can your visitors tell what your landing page is about in **5 seconds** or less?
 
-Within 5 seconds users should be able to answer:
+Within **5 seconds** users should be able to answer:
 
 - What's the landing page about?
 - What's the call-to-action/offer of the landing page?
-- Who's the company behind the landing page?
+- Who's the company (or brand) behind the landing page?
 - Do you find the landing page trustworthy?
-- Any other questions you're curious about
 
 <!-- 
 
@@ -98,7 +97,7 @@ Does the page feature a clear and compelling call to action (CTA), such as a sig
 
 -->
 
-- Explanation of Features (What the app does) and Benefits (Why users should care)
+- Explanation of Features (what the app does) and Benefits (why users should care)
 
 <!--
 
