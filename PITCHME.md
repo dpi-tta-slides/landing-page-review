@@ -1,13 +1,13 @@
 ---
 marp: true
-title: App Review
-description: Review example landing pages and do an app review
+title: Landing Page Review
+description: Best practices for evaluating app landing pages using real-world examples.
 transition: fade
 paginate: true
 _paginate: false
 ---
 
-# App Review
+# Landing Page Review
 
 ---
 
