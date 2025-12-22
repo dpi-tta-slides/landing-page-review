@@ -44,11 +44,25 @@ Your capstone project will be graded in 3 parts:
 
 - Design and Professionalism
 
-<!-- Does the landing page present a professional and appealing design, utilizing a consistent color scheme, typography, and high-quality images/graphics to create a positive first impression? -->
+<!--
+
+Does the landing page present a professional and appealing design, utilizing a consistent color scheme, typography, and high-quality images/graphics to create a positive first impression?
+
+Accessibility
+
+Clear language
+
+Readability
+
+-->
 
 - Clear Value Proposition
 
-<!-- Is the value proposition prominently displayed, clearly explaining what problem it solves, and why it's beneficial? -->
+<!--
+
+Is the value proposition prominently displayed, clearly explaining what problem it solves, and why it's beneficial?
+
+-->
 
 - Clear Audience Targeting
 
@@ -56,19 +70,35 @@ Your capstone project will be graded in 3 parts:
 
 - Call to Action
 
-<!-- Does the page feature a clear and compelling call to action (CTA), such as a sign-up or get-started button, that is easily identifiable and encourages visitors to engage with the app? -->
+<!--
+
+Does the page feature a clear and compelling call to action (CTA), such as a sign-up or get-started button, that is easily identifiable and encourages visitors to engage with the app?
+
+-->
 
 - Explanation of Features (What the app does) and Benefits (Why users should care)
 
-<!-- Is there a concise explanation of how the app works, through a combination of text, visuals (e.g. infographics), to illustrate the app's key features and benefits? -->
+<!--
+
+Is there a concise explanation of how the app works, through a combination of text, visuals (e.g. infographics), to illustrate the app's key features and benefits?
+
+-->
 
 - Demo Video
 
-<!-- Does the landing page include a demo video (or gif) that allows visitors to experience the app's functionality firsthand without needing to sign up? -->
+<!--
+
+Does the landing page include a demo video (or gif) that allows visitors to experience the app's functionality firsthand without needing to sign up?
+
+-->
 
 - Social Proof
 
-<!-- Are there elements of social proof, such as testimonials, user reviews, case studies or media mentions, that build trust and credibility with the audience? -->
+<!--
+
+Are there elements of social proof, such as testimonials, user reviews, case studies or media mentions, that build trust and credibility with the audience?
+
+-->
 
 ---
 
