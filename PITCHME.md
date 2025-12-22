@@ -15,8 +15,30 @@ _paginate: false
 
 - Often the first user interaction with your product
 - Convert visitors into users, customers, or stakeholders
-- Communicate the **value** of using your productk
+- Communicate the **value** of using your product
 - A weak landing page can sink a strong app
+
+---
+
+## 5 Second Test
+
+Can your visitors tell what your landing page is about in 5 seconds or less?
+
+Within 5 seconds users should be able to answer:
+
+- What's the landing page about?
+- What's the call-to-action/offer of the landing page?
+- Who's the company behind the landing page?
+- Do you find the landing page trustworthy?
+- Any other questions you're curious about
+
+<!-- 
+
+research found that users can assess the visual appeal of a web page in as little as 50 milliseconds (0.05 s). This means that parts of the first impression are formed in less time than a blink of an eye.
+
+[source](https://www.tandfonline.com/doi/abs/10.1080/01449290500330448)
+
+-->
 
 ---
 
@@ -104,7 +126,7 @@ Are there elements of social proof, such as testimonials, user reviews, case stu
 
 ## App Review
 
-Let's take a look at some landing pages and assess them on these 7 points.
+Let's take a look at some professional landing pages. We'll do the 5 second test and assess them on the 7 points in the rubric.
 
 ---
 
@@ -144,3 +166,4 @@ Let's take a look at some landing pages and assess them on these 7 points.
 
 - [Landing Folio](https://www.landingfolio.com/inspiration/landing-page/saas)
 - [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [A better landing page experience: 4 pillars to follow](https://www.usertesting.com/blog/better-landing-page-experience)
